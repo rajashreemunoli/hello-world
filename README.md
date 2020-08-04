@@ -1,3 +1,3 @@
 # hello-world
 my first github repository
-Raji here. I love coding!
+Raji here. I am learning to code.
